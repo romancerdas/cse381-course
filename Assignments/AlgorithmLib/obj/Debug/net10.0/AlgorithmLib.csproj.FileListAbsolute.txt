@@ -1,0 +1,11 @@
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/bin/Debug/net10.0/AlgorithmLib.deps.json
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/bin/Debug/net10.0/AlgorithmLib.dll
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/bin/Debug/net10.0/AlgorithmLib.pdb
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.AssemblyInfoInputs.cache
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.AssemblyInfo.cs
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.csproj.CoreCompileInputs.cache
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.dll
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/refint/AlgorithmLib.dll
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.pdb
+/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/ref/AlgorithmLib.dll
