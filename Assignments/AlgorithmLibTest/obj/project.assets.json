@@ -1704,19 +1704,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/romancerdas/.nuget/packages/": {}
+    "C:\\Users\\tehbi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLibTest/AlgorithmLibTest.csproj",
+      "projectUniqueName": "C:\\Users\\tehbi\\Developer_windows\\cse381-course\\Assignments\\AlgorithmLibTest\\AlgorithmLibTest.csproj",
       "projectName": "AlgorithmLibTest",
-      "projectPath": "/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLibTest/AlgorithmLibTest.csproj",
-      "packagesPath": "/Users/romancerdas/.nuget/packages/",
-      "outputPath": "/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLibTest/obj/",
+      "projectPath": "C:\\Users\\tehbi\\Developer_windows\\cse381-course\\Assignments\\AlgorithmLibTest\\AlgorithmLibTest.csproj",
+      "packagesPath": "C:\\Users\\tehbi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tehbi\\Developer_windows\\cse381-course\\Assignments\\AlgorithmLibTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/romancerdas/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tehbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -1729,8 +1729,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/AlgorithmLib.csproj": {
-              "projectPath": "/Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/AlgorithmLib.csproj"
+            "C:\\Users\\tehbi\\Developer_windows\\cse381-course\\Assignments\\AlgorithmLib\\AlgorithmLib.csproj": {
+              "projectPath": "C:\\Users\\tehbi\\Developer_windows\\cse381-course\\Assignments\\AlgorithmLib\\AlgorithmLib.csproj"
             }
           }
         }
@@ -1789,7 +1789,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

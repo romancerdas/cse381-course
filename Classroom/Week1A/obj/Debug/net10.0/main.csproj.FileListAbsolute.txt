@@ -1,0 +1,15 @@
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\bin\Debug\net10.0\main.exe
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\bin\Debug\net10.0\main.deps.json
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\bin\Debug\net10.0\main.runtimeconfig.json
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\bin\Debug\net10.0\main.dll
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\bin\Debug\net10.0\main.pdb
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.AssemblyInfoInputs.cache
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.AssemblyInfo.cs
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.csproj.CoreCompileInputs.cache
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.sourcelink.json
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.dll
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\refint\main.dll
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.pdb
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\main.genruntimeconfig.cache
+c:\Users\tehbi\Developer_windows\cse381-course\Classroom\Week1A\obj\Debug\net10.0\ref\main.dll

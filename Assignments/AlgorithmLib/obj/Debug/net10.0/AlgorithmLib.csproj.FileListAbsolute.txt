@@ -9,3 +9,15 @@
 /Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/refint/AlgorithmLib.dll
 /Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/AlgorithmLib.pdb
 /Users/romancerdas/Developer/cse381-course/Assignments/AlgorithmLib/obj/Debug/net10.0/ref/AlgorithmLib.dll
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\bin\Debug\net10.0\AlgorithmLib.deps.json
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\bin\Debug\net10.0\AlgorithmLib.dll
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\bin\Debug\net10.0\AlgorithmLib.pdb
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.AssemblyInfoInputs.cache
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.AssemblyInfo.cs
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.csproj.CoreCompileInputs.cache
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.sourcelink.json
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.dll
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\refint\AlgorithmLib.dll
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\AlgorithmLib.pdb
+C:\Users\tehbi\Developer_windows\cse381-course\Assignments\AlgorithmLib\obj\Debug\net10.0\ref\AlgorithmLib.dll

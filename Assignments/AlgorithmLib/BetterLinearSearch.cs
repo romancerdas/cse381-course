@@ -8,31 +8,53 @@
 using Microsoft.VisualBasic;
 
 namespace AlgorithmLib;
-List<int> dataSet = new();
 public static class BetterLinearSearch
 {
-
-// add checks for empty list and 1 item lists
-    if(dataSet.Count == 0) 
-    {
-        return -1;
-    }
-
-// loop to find value 
-    /* Search for an item in a list.  Ignore duplicates by exiting
-    *  as soon as the first match is found.
-    *
-    *  Inputs:
-    *     data - list to search
-    *     target - value to search for
-    *  Outputs:
-    *     Index where target was found
-    *
-    *  Note: Return -1 if target not found
-    */
     public static int Search<T>(List<T> data, T target) where T : IComparable<T>
     {
-        return 0;
+        if (data.Count == 0) // check if the list is empty 
+        {
+            return -1;
+        }        
+
+        if (data.Count == 1) // check  to see if the list is exactly one item 
+    
+        {
+            if (data[0].CompareTo(target) == 0) // check to see if the solo item is the target 
+            {
+                return 0;
+            } else
+            {
+                return -1; 
+            }
+        }
+
+        var last = data[^1]; // save the last value of the data in the variable last 
+
+        data[^1] = target; // set the value of the last index of the list to the target 
+
+        int i = 0; // set index start 
+
+        while (data[i].CompareTo(target) != 0) // iterate through list 
+        {
+            i++; // increment
+        }
+
+        data[^1] = last; //restores final index to og value 
+
+        if(i < (data.Count-1)) // check to see if target was found before the final index 
+        {
+            return i;
+        } 
+        else if(last.CompareTo(target) == 0)
+        {
+            return data.Count-1;
+        } 
+        else 
+        {
+            return -1;
+        }
+
     }
 }
 
